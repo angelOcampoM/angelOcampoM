@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola! Soy Ángel 👋
 
-<!--
-**angelOcampoM/angelOcampoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full-Stack
 
-Here are some ideas to get you started:
+Soy un desarrollador Full Stack apasionado por el diseño y la experiencia de usuario.  
+Tengo experiencia con React, Next.js y Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologías
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![Node](https://skillicons.dev/icons?i=nodejs)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email 20233tn058@utez.edu.mx
+- 💼 LinkedIn angelOcampo
+- 🐙 GitHub angelOcampoM
